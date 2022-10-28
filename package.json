@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "graphql_helloworld",
+  "version": "1.0.0",
+  "description": "First project on GraphQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshita Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.10.3",
+    "graphql": "^15.8.0",
+    "node-fetch": "^3.2.10"
+  }
+}
